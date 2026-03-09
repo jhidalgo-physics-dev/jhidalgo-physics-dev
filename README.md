@@ -48,6 +48,8 @@ Pandas
 Matplotlib  
 BeautifulSoup  
 Requests  
+yfinance
+lxml
 
 ## Areas of Interest
 
