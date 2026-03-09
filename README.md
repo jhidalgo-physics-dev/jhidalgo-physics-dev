@@ -38,4 +38,4 @@ Automation and scripting
 
 ---
 
-Always learning and building new projects.
+Currently building Python projects for freelancing, data workflows, and future trading tools.
