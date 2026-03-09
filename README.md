@@ -52,3 +52,7 @@ Automation and scripting
 ---
 
 Currently building Python projects for freelancing, data workflows, and future trading tools.
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhidalgo-physics-dev&show_icons=true&theme=dark)
