@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Johnny 👋
 
-<!--
-**jhidalgo-physics-dev/jhidalgo-physics-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics and Astrophysics student at Arizona State University with an interest in scientific computing, data analysis, and automation using Python.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python for data analysis
+- Web scraping and automation
+- Financial data tools
+- Scientific computing for physics
+
+## Projects
+
+### Python Freelance Portfolio
+A collection of Python projects demonstrating real-world workflows:
+
+- Stock data analysis and visualization
+- Web scraping with BeautifulSoup
+- Data cleaning automation with Pandas
+
+Repository:
+https://github.com/jhidalgo-physics-dev/python-freelance-portfolio
+
+## Technologies
+
+Python  
+Pandas  
+Matplotlib  
+BeautifulSoup  
+Requests  
+
+## Areas of Interest
+
+Astrophysics  
+Scientific computing  
+Financial data analysis  
+Automation and scripting
+
+---
+
+Always learning and building new projects.
