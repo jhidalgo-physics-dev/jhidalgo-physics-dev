@@ -20,12 +20,11 @@ https://github.com/jhidalgo-physics-dev/python-freelance-portfolio
 **Projects included:**
 
 **Momentum Stock Scanner**
-
--Scans a large ticker universe
--Calculates gap percentage
--Computes relative volume
--Filters based on configurable rules
--Exports results and watchlists
+- Scans a large ticker universe
+- Calculates gap percentage
+- Computes relative volume
+- Filters based on configurable rules
+- Exports results and watchlists
 
 **Stock Analysis Tool**
 - Downloads historical stock data
