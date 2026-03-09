@@ -9,17 +9,30 @@ Physics and Astrophysics student at Arizona State University with an interest in
 - Financial data tools
 - Scientific computing for physics
 
-## Projects
+## Featured Projects
 
 ### Python Freelance Portfolio
-A collection of Python projects demonstrating real-world workflows:
+A collection of Python projects demonstrating practical workflows used in data analysis and automation.
 
-- Stock data analysis and visualization
-- Web scraping with BeautifulSoup
-- Data cleaning automation with Pandas
-
-Repository:
+Repository:  
 https://github.com/jhidalgo-physics-dev/python-freelance-portfolio
+
+**Projects included:**
+
+**Stock Analysis Tool**
+- Downloads historical stock data
+- Calculates moving averages
+- Generates technical analysis charts
+
+**Web Scraper**
+- Extracts structured data from websites
+- Uses BeautifulSoup for HTML parsing
+- Exports data to CSV
+
+**Data Cleaner**
+- Cleans messy datasets automatically
+- Handles duplicates and missing values
+- Standardizes column names
 
 ## Technologies
 
