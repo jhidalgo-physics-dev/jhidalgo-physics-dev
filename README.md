@@ -1,9 +1,10 @@
 # Hi, I'm Johnny 👋
 
-Physics and Astrophysics student at Arizona State University with an interest in scientific computing, data analysis, and automation using Python.
+Physics and Astronomical & Planetary Science student at Arizona State University with an interest in scientific computing, data analysis, and automation using Python.
 
 ## Current Focus
 
+Currently building Python projects in data analysis, scientific computing, and simulation support workflows.
 - Python for data analysis
 - Web scraping and automation
 - Financial data tools
