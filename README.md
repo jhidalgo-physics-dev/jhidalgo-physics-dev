@@ -9,14 +9,14 @@ In addition to coursework and research, I enjoy building Python projects involvi
 
 ## Current Areas of Interest
 
--Scientific Computing
--Computational Physics
--Astrophysics
--Numerical Methods
--Data Analysis & Visualization
--Python Programming
--Space Exploration
--Simulation & Modeling
+- Scientific Computing
+- Computational Physics
+- Astrophysics
+- Numerical Methods
+- Data Analysis & Visualization
+- Python Programming
+- Space Exploration
+- Simulation & Modeling
 
 ## Featured Projects
 
@@ -31,37 +31,37 @@ Collection of projects involving data cleaning, processing, visualization, and a
 
 ## Technical Skills
 
--Python  
--NumPy
--Pandas  
--Matplotlib  
--Scientific Computing
--Research Computing
--Data Analysis
--Data Visualization
--Technical Writing
--Microsoft Excel
+- Python  
+- NumPy
+- Pandas  
+- Matplotlib  
+- Scientific Computing
+- Research Computing
+- Data Analysis
+- Data Visualization
+- Technical Writing
+- Microsoft Excel
 
 ## Research Experience
 
 ### Remote Scanning Electron Microscopy (SEM) Investigations of Photovoltaic Materials
 
--Experimental data collection
--Scientific image analysis
--Quantitative measurements
--Technical reporting
--Research presentations
+- Experimental data collection
+- Scientific image analysis
+- Quantitative measurements
+- Technical reporting
+- Research presentations
 
 ## Career Interests
 
 I am actively seeking opportunities in:
 
--Scientific Computing
--Aerospace & Space Exploration
--Research & Development
--Data Analysis
--Physics & Astronomy Research
--Simulation & Modeling
+- Scientific Computing
+- Aerospace & Space Exploration
+- Research & Development
+- Data Analysis
+- Physics & Astronomy Research
+- Simulation & Modeling
 
 ### Connect With Me
 
