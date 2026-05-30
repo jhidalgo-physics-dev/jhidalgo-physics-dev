@@ -1,67 +1,74 @@
 # Hi, I'm Johnny 👋
 
-Physics and Astronomical & Planetary Science student at Arizona State University with an interest in scientific computing, data analysis, and automation using Python.
+Physics and Astronomical & Planetary Science student at Arizona State University with a strong interest in scientific computing, data analysis, astrophysics and space exploration.
 
-## Current Focus
+## About Me
+I am currently pursuing dual Bachelor of Science degrees in Physics and Astronomical & Planetary Sciences while maintaining a 3.99 GPA. My interests include computational physics, numerical methods, scientific visualization, astrophysics, and developing software tools that support data-driven decision making.
 
-Currently building Python projects in data analysis, scientific computing, and simulation support workflows.
-- Python for data analysis
-- Web scraping and automation
-- Financial data tools
-- Scientific computing for physics
+In addition to coursework and research, I enjoy building Python projects involving scientific computing, automation, data analysis, and simulation.
+
+## Current Areas of Interest
+
+-Scientific Computing
+-Computational Physics
+-Astrophysics
+-Numerical Methods
+-Data Analysis & Visualization
+-Python Programming
+-Space Exploration
+-Simulation & Modeling
 
 ## Featured Projects
 
-### Python Freelance Portfolio
-A collection of Python projects demonstrating practical workflows used in data analysis and automation.
+### Stellar Habitable Zone Evolution
+Models how habitable zone boundaries evolve as stars change over time using stellar evolution data. Demonstrates scientific computing, astrophysical modeling, data visualization, and numerical analysis.
 
-Repository:  
-https://github.com/jhidalgo-physics-dev/python-freelance-portfolio
+### Momentum Stock Scanner
+Python-based market scanner that identifies momentum candidates using volume, gap percentage, float, and price filters.
 
-**Projects included:**
+### Python Data Analysis Projects
+Collection of projects involving data cleaning, processing, visualization, and automation.
 
-**Momentum Stock Scanner**
-- Scans a large ticker universe
-- Calculates gap percentage
-- Computes relative volume
-- Filters based on configurable rules
-- Exports results and watchlists
+## Technical Skills
 
-**Stock Analysis Tool**
-- Downloads historical stock data
-- Calculates moving averages
-- Generates technical analysis charts
+-Python  
+-NumPy
+-Pandas  
+-Matplotlib  
+-Scientific Computing
+-Research Computing
+-Data Analysis
+-Data Visualization
+-Technical Writing
+-Microsoft Excel
 
-**Web Scraper**
-- Extracts structured data from websites
-- Uses BeautifulSoup for HTML parsing
-- Exports data to CSV
+## Research Experience
 
-**Data Cleaner**
-- Cleans messy datasets automatically
-- Handles duplicates and missing values
-- Standardizes column names
+### Remote Scanning Electron Microscopy (SEM) Investigations of Photovoltaic Materials
 
-## Technologies
+-Experimental data collection
+-Scientific image analysis
+-Quantitative measurements
+-Technical reporting
+-Research presentations
 
-Python  
-Pandas  
-Matplotlib  
-BeautifulSoup  
-Requests  
-yfinance
-lxml
+## Career Interests
 
-## Areas of Interest
+I am actively seeking opportunities in:
 
-Astrophysics  
-Scientific computing  
-Financial data analysis  
-Automation and scripting
+-Scientific Computing
+-Aerospace & Space Exploration
+-Research & Development
+-Data Analysis
+-Physics & Astronomy Research
+-Simulation & Modeling
+
+### Connect With Me
+
+Feel free to explore my repositories and projects. I am always interested in learning new technologies, collaborating on technical projects, and applying computational methods to scientific problems.
 
 ---
 
-Currently building Python projects for freelancing, data workflows, and future trading tools.
 
 ## GitHub Stats
 
