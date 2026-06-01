@@ -26,7 +26,7 @@ Models how habitable zone boundaries evolve as stars change over time using stel
 ### Momentum Stock Scanner
 Python-based market scanner that identifies momentum candidates using volume, gap percentage, float, and price filters.
 
-### Python Data Analysis Projects
+### [Python Data Analysis Projects](https://github.com/jhidalgo-physics-dev/python-freelance-portfolio)
 Collection of projects involving data cleaning, processing, visualization, and automation.
 
 ## Technical Skills
