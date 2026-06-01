@@ -20,7 +20,7 @@ In addition to coursework and research, I enjoy building Python projects involvi
 
 ## Featured Projects
 
-### Stellar Habitable Zone Evolution
+### [Stellar Habitable Zone Evolution](https://github.com/jhidalgo-physics-dev/Physics-scientific-computing)
 Models how habitable zone boundaries evolve as stars change over time using stellar evolution data. Demonstrates scientific computing, astrophysical modeling, data visualization, and numerical analysis.
 
 ### Momentum Stock Scanner
