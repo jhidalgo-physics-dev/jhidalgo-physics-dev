@@ -23,7 +23,7 @@ In addition to coursework and research, I enjoy building Python projects involvi
 ### [Stellar Habitable Zone Evolution](https://github.com/jhidalgo-physics-dev/Physics-scientific-computing)
 Models how habitable zone boundaries evolve as stars change over time using stellar evolution data. Demonstrates scientific computing, astrophysical modeling, data visualization, and numerical analysis.
 
-### Momentum Stock Scanner
+### [Momentum Stock Scanner](https://github.com/jhidalgo-physics-dev/python-freelance-portfolio/tree/main/stock-scanner)
 Python-based market scanner that identifies momentum candidates using volume, gap percentage, float, and price filters.
 
 ### [Python Data Analysis Projects](https://github.com/jhidalgo-physics-dev/python-freelance-portfolio)
