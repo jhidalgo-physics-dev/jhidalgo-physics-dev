@@ -5,7 +5,7 @@ Physics and Astronomical & Planetary Science student at Arizona State University
 ## About Me
 I am currently pursuing dual Bachelor of Science degrees in Physics and Astronomical & Planetary Sciences while maintaining a 3.99 GPA. My interests include computational physics, numerical methods, scientific visualization, astrophysics, and developing software tools that support data-driven decision making.
 
-In addition to coursework and research, I enjoy building Python projects involving scientific computing, automation, data analysis, and simulation.
+In addition to coursework and research, I enjoy building Python projects involving scientific computing, automation, data analysis, and simulation. I am currently building a scientific computing portfolio focused on astrophysics, simulation, numerical methods, and data visualization.
 
 ## Current Areas of Interest
 
