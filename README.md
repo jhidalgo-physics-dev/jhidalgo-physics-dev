@@ -26,6 +26,9 @@ Models how habitable zone boundaries evolve as stars change over time using stel
 ### [Orbital Mechanics Simulator](https://github.com/jhidalgo-physics-dev/orbital-mechanics-simulator)
 Computational physics project that simulates satellite motion using Newtonian gravity and numerical integration. The simulator visualizes circular, elliptical, and escape trajectories while demonstrating core principles of orbital mechanics and aerospace engineering.
 
+### [Exoplanet Data Explorer](https://github.com/jhidalgo-physics-dev/Exoplanet-Data-Explorer)
+Analyzes 6,000+ confirmed exoplanets from NASA's Exoplanet Archive using Python, Pandas, and Matplotlib to uncover trends in planetary properties, discovery methods, and orbital characteristics.
+
 ### [Momentum Stock Scanner](https://github.com/jhidalgo-physics-dev/python-freelance-portfolio/tree/main/stock-scanner)
 Python-based market scanner that identifies momentum candidates using volume, gap percentage, float, and price filters.
 
