@@ -20,7 +20,7 @@ In addition to coursework and research, I enjoy building Python projects involvi
 
 ## Featured Projects
 
-### [Stellar Habitable Zone Evolution](https://github.com/jhidalgo-physics-dev/Physics-scientific-computing)
+### [Stellar Habitable Zone Evolution](https://github.com/jhidalgo-physics-dev/Habitable-Zone-Evolution)
 Models how habitable zone boundaries evolve as stars change over time using stellar evolution data. Demonstrates scientific computing, astrophysical modeling, data visualization, and numerical analysis.
 
 ### [Orbital Mechanics Simulator](https://github.com/jhidalgo-physics-dev/orbital-mechanics-simulator)
